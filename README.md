@@ -12,7 +12,8 @@ Detectar desviaciones entre valores reales y metas.
 
 Permitir la clasificación de indicadores por categoría (ej: liquidez, riesgo, atención al cliente, cumplimiento normativo, etc.).
 
-📦 Entidades clave (propuestas): Sucursal
+📦 Entidades clave (propuestas): 
+1.Sucursal
 
 IDENTIFICACIÓN
 
@@ -22,7 +23,7 @@ Ciudad
 
 Región
 
-Indicador
+2. Indicador
 
 IDENTIFICACIÓN
 
@@ -34,7 +35,7 @@ Unidad de medida
 
 Categoría (Ej. “Riesgo de crédito”, “Liquidez”, “Atención al cliente”)
 
-SistemaFuente
+3. SistemaFuente
 
 IDENTIFICACIÓN
 
@@ -42,7 +43,7 @@ Nombre del sistema
 
 Responsable
 
-RegistroIndicadorDiario
+4.RegistroIndicadorDiario
 
 IDENTIFICACIÓN
 
@@ -58,7 +59,7 @@ ValorMeta
 
 IDSistemaFuente
 
-DesviacionIndicador (opcional, derivada o materializada)
+5.BDesviacionIndicador (opcional, derivada o materializada)
 
 IDRegistroIndicadorDiario
 
