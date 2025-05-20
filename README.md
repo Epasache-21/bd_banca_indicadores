@@ -94,3 +94,5 @@ Cantidad de operaciones realizadas por canal digital.
 ¿Qué sistema fuente ha reportado más inconsistencias en los últimos 30 días?
 
 ¿Cómo evolucionó el indicador "Número de cuentas abiertas" en Lima durante el último trimestre?
+
+![image](https://github.com/user-attachments/assets/407170b6-7c99-4d7e-aba2-2d40db6bac3a)
